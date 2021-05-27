@@ -14,4 +14,4 @@ _ ** Symmetrized Split Step Fourier ** _
 
 ## Consigna del trabajo
 
-**TP8 Simulación de propagación no lineal** - [TP8](https://github.com/pdlsantos/Trabajos_Taller/blob/main/TP1/tp01.pdf)
+**TP8 Simulación de propagación no lineal** - [TP8](https://github.com/pdlsantos/Symmetrized_SSF/blob/main/Pr%C3%A1ctica%208%20-%20simulaciones.pdf)

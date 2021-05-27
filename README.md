@@ -2,7 +2,7 @@
 
 _En este Repositorio se almacenan los algoritmos para realizar animaciones de la propagación de un pulso en una fibra óptica.
 Al ser la ecucación que describe el movimiento del tipo Schödinger no lineal dichas animaciones se realizan por medio del método
-** Symmetrized Split Step Fourier **_
+**Symmetrized Split Step Fourier**_
 
 
 ## Orden
